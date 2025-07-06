@@ -32,4 +32,4 @@ UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/bairagi2oo3/ShizuBot",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
