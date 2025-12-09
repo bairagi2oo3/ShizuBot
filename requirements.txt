@@ -27,4 +27,4 @@ apscheduler
 Flask
 uvloop
 langdetect
-git+https://github.com/badmunda98/BadAPI
+git+https://github.com/Commando-X/badAPI
